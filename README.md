@@ -280,38 +280,40 @@ Các phương thức mảng JavaScript được chia thành:
 5. **ES2023 Methods**: Các phương thức không đột biến mới (toReversed, toSorted, with, etc.)
 
 
-### 🔗 **1. String Methods — Các phương thức chuỗi**
+### 🔗 **1. String Methods 
+— Các phương thức chuỗi**
 
-👉 [https://www.w3schools.com/js/js_string_methods.asp](https://www.w3schools.com/js/js_string_methods.asp) — Tài liệu tổng hợp các phương thức xử lý chuỗi trong JavaScript. ([W3Schools][1])
+👉 [https://www.w3schools.com/js/js_string_methods.asp](https://www.w3schools.com/js/js_string_methods.asp) 
+— Tài liệu tổng hợp các phương thức xử lý chuỗi trong JavaScript. ([W3Schools][1])
 
-### 🔗 **2. Number Methods — Các phương thức số**
+### 🔗 **2. Number Methods 
+— Các phương thức số**
 
-👉 [https://www.w3schools.com/Js/js_number_methods.asp](https://www.w3schools.com/Js/js_number_methods.asp) — Tài liệu các method liên quan đến Number (chuyển đổi, kiểm tra, parse…). ([W3Schools][2])
+👉 [https://www.w3schools.com/Js/js_number_methods.asp](https://www.w3schools.com/Js/js_number_methods.asp) 
+— Tài liệu các method liên quan đến Number (chuyển đổi, kiểm tra, parse…). ([W3Schools][2])
 
-### 🔗 **3. Function Methods / Functions — Hàm & Function liên quan**
+### 🔗 **3. Function Methods / Functions 
+— Hàm & Function liên quan**
 
-👉 [https://www.w3schools.com/js/js_functions.asp](https://www.w3schools.com/js/js_functions.asp) — Khái niệm và cách định nghĩa, gọi hàm trong JavaScript. ([W3Schools][3])
+👉 [https://www.w3schools.com/js/js_functions.asp](https://www.w3schools.com/js/js_functions.asp) 
+— Khái niệm và cách định nghĩa, gọi hàm trong JavaScript. ([W3Schools][3])
 👉 Ngoài ra nếu bạn muốn xem các method đặc biệt của Function như `call()`, `apply()`, `bind()`:
-[https://www.w3schools.com/js/js_function_call.asp](https://www.w3schools.com/js/js_function_call.asp) — Ví dụ `call()` method. ([W3Schools][4])
+[https://www.w3schools.com/js/js_function_call.asp](https://www.w3schools.com/js/js_function_call.asp) 
+— Ví dụ `call()` method. ([W3Schools][4])
 
-### 🔗 **4. Date Methods — Các phương thức Date**
+### 🔗 **4. Date Methods 
+— Các phương thức Date**
 
-👉 [https://www.w3schools.com/js/js_date_methods.asp](https://www.w3schools.com/js/js_date_methods.asp) — Các phương thức để **lấy** (get) giá trị thời gian từ đối tượng Date (như getFullYear, getMonth…). ([W3Schools][5])
+👉 [https://www.w3schools.com/js/js_date_methods.asp](https://www.w3schools.com/js/js_date_methods.asp) 
+— Các phương thức để **lấy** (get) giá trị thời gian từ đối tượng Date (như getFullYear, getMonth…). ([W3Schools][5])
 👉 Hoặc xem reference đầy đủ Date methods & properties: [https://www.w3schools.com/jsref/jsref_obj_date.asp](https://www.w3schools.com/jsref/jsref_obj_date.asp) ([W3Schools][6])
 
-### 🔗 **5. Math Methods (Static methods) — Các phương thức toán học**
+### 🔗 **5. Math Methods (Static methods) 
+— Các phương thức toán học**
 
-👉 [https://www.w3schools.com/Js/js_math.asp](https://www.w3schools.com/Js/js_math.asp) — Tài liệu Math object: static methods như `Math.round()`, `Math.ceil()`, `Math.random()`… ([W3Schools][7])
+👉 [https://www.w3schools.com/Js/js_math.asp](https://www.w3schools.com/Js/js_math.asp) 
+— Tài liệu Math object: static methods như `Math.round()`, `Math.ceil()`, `Math.random()`… ([W3Schools][7])
 
 ---
 
-Nếu bạn muốn **tổng hợp link theo 1 danh sách riêng để copy nhanh**, mình cũng có thể tạo file hay bảng cho bạn nhé!
-
-[1]: https://www.w3schools.com/js/js_string_methods.asp?utm_source=chatgpt.com "JavaScript String Methods"
-[2]: https://www.w3schools.com/Js/js_number_methods.asp?utm_source=chatgpt.com "JavaScript Number Methods"
-[3]: https://www.w3schools.com/js/js_functions.asp?utm_source=chatgpt.com "JavaScript Functions"
-[4]: https://www.w3schools.com/js/js_function_call.asp?utm_source=chatgpt.com "JavaScript Function call() Method"
-[5]: https://www.w3schools.com/js/js_date_methods.asp?utm_source=chatgpt.com "JavaScript Get Date Methods"
-[6]: https://www.w3schools.com/jsref/jsref_obj_date.asp?utm_source=chatgpt.com "JavaScript Date Reference"
-[7]: https://www.w3schools.com/Js/js_math.asp?utm_source=chatgpt.com "JavaScript Math Object"
 
