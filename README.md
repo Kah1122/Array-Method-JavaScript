@@ -52,12 +52,12 @@ numbers.sort(); // [1, 2, 3]
 const words = ['banana', 'apple', 'cherry'];
 words.sort(); // ['apple', 'banana', 'cherry']
 ```
-*Với kiểu dữ number bắt buộc dùng ***((a, b) => a - b)*** nếu không sẽ lỗi*
+*Với kiểu dữ number 2 chữ số bắt buộc dùng ***((a, b) => a - b)*** nếu không sẽ lỗi*
 ```
-const numbers = [3, 1, 2];
+const numbers = [10, 1, 2];
 numbers.sort((a, b) => a - b);
 
-console.log(numbers); // [1, 2, 3]
+console.log(numbers); // [1, 2, 10]
 ```
 
 ### 8. `fill()` - Điền giá trị vào mảng
