@@ -52,6 +52,13 @@ numbers.sort(); // [1, 2, 3]
 const words = ['banana', 'apple', 'cherry'];
 words.sort(); // ['apple', 'banana', 'cherry']
 ```
+*Với kiểu dữ number bắt buộc dùng ***((a, b) => a - b)*** nếu không sẽ lỗi*
+```
+const numbers = [3, 1, 2];
+numbers.sort((a, b) => a - b);
+
+console.log(numbers); // [1, 2, 3]
+```
 
 ### 8. `fill()` - Điền giá trị vào mảng
 ```javascript
